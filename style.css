@@ -1,9 +1,12 @@
 * {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    background-color: aqua;
+    color:navy;
+    text-shadow: 2px 2px 4px aqua;
 }
 h1 {
     font-size: 75px;
+    text-align: center;
+    padding: 10px;
 }
 p {
     font-size: 24px;
