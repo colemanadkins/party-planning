@@ -12,6 +12,7 @@ p {
 .containerH {
     position: relative;
     text-align: center;
+    min-height: 120px;
 }
 .headertext {
     position: absolute;
