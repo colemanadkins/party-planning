@@ -1,7 +1,7 @@
 * {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color:navy;
-    text-shadow: 2px 2px 4px aqua;
+    color: black;
+    text-shadow: 1px 1px 1px white;
 }
 h1 {
     font-size: 3em;
@@ -10,7 +10,7 @@ p {
     font-size: 24px;
 }
 body{
-    background-image: url(blackandwhitepalms.jpg);
+    background-image: url(western.jpg);
 }
 .containerH {
     position: relative;
