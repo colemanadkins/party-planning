@@ -1,13 +1,16 @@
 * {
-    font-family: 'Press Start 2P', cursive;
-    color: black;
-    text-shadow: 2px 2px 1px rgb(128, 122, 65);
+    font-family: 'Smokum', cursive;
+    color:black;
+    text-shadow: 2px 2px 1px wheat;
 }
 h1 {
+    font-size: 4em;
+}
+h2 {
     font-size: 3em;
 }
 p {
-    font-size: 24px;
+    font-size: 2em;
 }
 body{
     background-image: url(western.jpg);
