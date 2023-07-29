@@ -1,7 +1,7 @@
 * {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Press Start 2P', cursive;
     color: black;
-    text-shadow: 1px 1px 1px white;
+    text-shadow: 2px 2px 1px rgb(128, 122, 65);
 }
 h1 {
     font-size: 3em;
@@ -12,7 +12,7 @@ p {
 body{
     background-image: url(western.jpg);
 }
-.containerH {
+/* .containerH {
     position: relative;
     text-align: center;
     min-height: 120px;
@@ -21,4 +21,4 @@ body{
     position: absolute;
     bottom: 8px;
     left: 16px;
-  }
+  } */
