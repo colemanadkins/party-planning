@@ -1,19 +1,24 @@
 * {
     font-family: 'Smokum', cursive;
-    color:black;
-    text-shadow: 2px 2px 1px rgb(194, 185, 169);
 }
 h1 {
     font-size: 4em;
     text-align: center;
+    color: rgb(49, 49, 49);
+    text-shadow: 2px 2px 1px rgb(109, 92, 61);
 }
 h2 {
     font-size: 3em;
     text-align: center;
+    color: rgb(49, 49, 49);
+    text-shadow: 2px 2px 1px rgb(109, 92, 61);
 }
 p {
     font-size: 2em;
     text-align: center;
+    font-style: italic;
+    color: rgb(49, 49, 49);
+    text-shadow: 2px 2px 1px rgb(198, 187, 166);
 }
 body{
     background-image: url(Cowboy2.jpg);
