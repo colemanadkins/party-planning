@@ -26,6 +26,8 @@ body {
 }
 hr {
     margin: auto;
+    color:rgb(49, 49, 49);
+    font-weight: bold;
 }
 iframe {
     margin-bottom: 20px;
