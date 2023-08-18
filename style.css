@@ -21,6 +21,9 @@ p {
     color: rgb(49, 49, 49);
     text-shadow: 2px 2px 1px rgb(198, 187, 166);
 }
+.when{
+    font-size: 2.5em;
+}
 body {
     background-image: url(Cowboy2.jpg);
 }
